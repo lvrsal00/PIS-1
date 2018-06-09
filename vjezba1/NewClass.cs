@@ -8,5 +8,10 @@ namespace vjezba1
 {
     class NewClass
     {
+        void Metoda()
+        {
+            //prazna metoda
+        }
+        
     }
 }
