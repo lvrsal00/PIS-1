@@ -12,6 +12,8 @@ namespace vjezba1
         {
             // comment by mkardu00
             Console.WriteLine("Hello World");
+            
+            // Bug fixed
         }
     }
 }
