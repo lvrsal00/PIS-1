@@ -10,6 +10,7 @@ namespace vjezba1
     {
         static void Main(string[] args)
         {
+            // comment by mkardu00
             Console.WriteLine("Hello World");
         }
     }
